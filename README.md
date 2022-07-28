@@ -16,3 +16,4 @@
 * [유효한 팰린드롬](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/8_Valid_palindrome.md)
 * [숫자만 추출](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/9_Extract_only_numbers.md)
 * [가장 짧은 문자거리](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/10_Shortest_text_distance.md)
+* [문자열 압축](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/11_String_compression.md)
