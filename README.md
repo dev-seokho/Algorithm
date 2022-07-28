@@ -17,3 +17,4 @@
 * [숫자만 추출](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/9_Extract_only_numbers.md)
 * [가장 짧은 문자거리](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/10_Shortest_text_distance.md)
 * [문자열 압축](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/11_String_compression.md)
+* [암호](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/12_Password.md)
