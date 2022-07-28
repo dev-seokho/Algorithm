@@ -5,7 +5,7 @@
 
 ## Study
 
-### 문자열
+### String (문자열)
 * [문자 찾기](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/1_Find_letters.md)
 * [대소문자 변환](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/2_Case_conversion.md)
 * [문장 속 단어](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/3_Words_in_a_sentence.md)
@@ -18,3 +18,5 @@
 * [가장 짧은 문자거리](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/10_Shortest_text_distance.md)
 * [문자열 압축](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/11_String_compression.md)
 * [암호](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/12_Password.md)
+
+### Array (1,2차원 배열)
