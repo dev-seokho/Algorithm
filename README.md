@@ -20,3 +20,4 @@
 * [암호](https://github.com/dev-seokho/Algorithm/blob/master/Study/String/12_Password.md)
 
 ### Array (1,2차원 배열)
+* [큰 수 출력하기](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/1_Outputs_a_large_number.md)
