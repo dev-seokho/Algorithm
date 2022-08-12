@@ -23,3 +23,4 @@
 * [큰 수 출력하기](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/1_Outputs_a_large_number.md)
 * [보이는 학생](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/2_Visible_student.md)
 * [가위 바위 보](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/3_Rock_paper_scissors.md)
+* [가위 바위 보](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/4_Fibonacci_sequence.md)
