@@ -24,4 +24,4 @@
 * [보이는 학생](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/2_Visible_student.md)
 * [가위 바위 보](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/3_Rock_paper_scissors.md)
 * [피보나치 수열](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/4_Fibonacci_sequence.md)
-* [소수](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/5_Prime_number.md)
+* [소수(에라토스테네스 체)](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/5_Prime_number.md)
