@@ -27,3 +27,4 @@
 * [소수(에라토스테네스 체)](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/5_Prime_number.md)
 * [뒤집힌 소수](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/6_Inverted_prime_number.md)
 * [점수 계산](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/7_Calculating_the_score.md)
+* [등수 구하기](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/8_Ranking_number.md)
