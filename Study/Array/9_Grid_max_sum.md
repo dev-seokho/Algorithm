@@ -4,7 +4,7 @@
 
 5*5 격자판에 아래롸 같이 숫자가 적혀있습니다.
 
-![Grid_max_sum.png](./img/Grid_max_sum.png);
+![Grid_max_sum.png](./img/Grid_max_sum.png)
 
 N*N의 격자판이 주어지면 각 행의 합, 각 열의 합, 두 대각선의 합 중 가 장 큰 합을 출력합니다.
 
