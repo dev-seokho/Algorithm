@@ -10,7 +10,7 @@
 
 만약 N=5 이고, 격자판의 숫자가 다음과 같다면 봉우리의 개수는 10개입니다.
 
-![https://cote.inflearn.com/public/upload/d0a3fd4667.jpg](https://cote.inflearn.com/public/upload/d0a3fd4667.jpg)
+![Peaks.png](./img/Peaks.png)
 
 ## 입력
 
