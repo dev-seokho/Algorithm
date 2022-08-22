@@ -30,3 +30,7 @@
 * [등수 구하기](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/8_Ranking_number.md)
 * [격자판 최대합](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/9_Grid_max_sum.md)
 * [봉우리](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/10_Peaks.md)
+
+## Etc
+
+* [Test 1](https://github.com/dev-seokho/Algorithm/blob/master/Etc/Test1.md)
