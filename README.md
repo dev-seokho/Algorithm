@@ -30,6 +30,7 @@
 * [등수 구하기](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/8_Ranking_number.md)
 * [격자판 최대합](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/9_Grid_max_sum.md)
 * [봉우리](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/10_Peaks.md)
+* [임시반장 정하기](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/11_Temporary_class_president.md)
 
 ## Etc
 
