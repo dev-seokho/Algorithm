@@ -33,6 +33,8 @@
 * [임시반장 정하기](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/11_Temporary_class_president.md)
 * [멘토링](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/12_Mentoring.md)
 
+#### Two pointers, Sliding window[효율성 : O(n^2)-->O(n)]
+
 ## Etc
 
 * [Test 1](https://github.com/dev-seokho/Algorithm/blob/master/Etc/Test1.md)
