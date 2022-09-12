@@ -34,6 +34,7 @@
 * [멘토링](https://github.com/dev-seokho/Algorithm/blob/master/Study/Array/12_Mentoring.md)
 
 #### Two pointers, Sliding window[효율성 : O(n^2)-->O(n)]
+*[두 배열 합치기(two pointers algorithm)](https://github.com/dev-seokho/Algorithm/blob/master/Study/TwoPointers_SlidingWindow/etc.md)
 
 ## Etc
 
